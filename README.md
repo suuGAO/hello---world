@@ -1,2 +1,3 @@
-# hello---world
-My first repository on GitHub
+＃你好世界
+我在 GitHub 上的第一个存储库
+我 love ：咖啡:, ：比萨：, and ：舞蹈家：.
